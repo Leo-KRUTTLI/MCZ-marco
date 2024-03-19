@@ -1,3 +1,6 @@
+# Version 27 March 2024
+# By Léo KRÜTTLI
+
 // Determine the image processing steps to run 
 Dialog.create("Choice of steps");
 Dialog.addMessage("Choose your steps");
